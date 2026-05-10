@@ -1,6 +1,6 @@
 // server/middlewares/verifyToken.js
 import jwt from "jsonwebtoken";
-import User from "../models/User.js"; // make sure the path matches your project
+import User from "../models/user.js"; // make sure the path matches your project
 
 // Middleware to verify JWT token
 // adminOnly = true will restrict access to admins only
