@@ -1,0 +1,20 @@
+TakeEasy
+
+website start karva mate
+
+cd server
+npm run dev
+
+cd client
+npm run dev
+
+
+mongodb atlas number
+
+
+
+folder name change kar va nu
+website name change kar vanu
+logaut button fix karva nu
+admin and user login page ava deva nu
+product image hight,weight change kar vi

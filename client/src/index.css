@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-white text-gray-900;
+}
+
+.dark body {
+  @apply bg-gray-900 text-white;
+}
+.input {
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 8px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
